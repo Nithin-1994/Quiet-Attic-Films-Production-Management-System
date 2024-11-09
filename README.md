@@ -82,3 +82,8 @@ This limitation is intentional, as it prevents unauthorized changes to the syste
 ensures that only Staff and Admins, who are responsible for maintaining accurate data, can
 modify the database. Clients’ access is carefully controlled to allow them to interact with the
 system in ways that support their needs while safeguarding the overall integrity of the data.
+
+
+
+
+
